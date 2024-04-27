@@ -2,16 +2,12 @@
 
 # 5G Patch Antenna Design Project
 Patch antennas play a crucial role in 5G communication, offering compact design, high performance, and versatility. They enable the deployment of high-frequency wireless networks and facilitate seamless connectivity in modern communication systems.
+
 ![image](https://github.com/Tiru373/patch-antennas-for-5g-applications/assets/147503242/cac28e23-0215-428d-a061-dacf53b6427d) ![image](https://github.com/Tiru373/patch-antennas-for-5g-applications/assets/147503242/fca6ac7d-d396-4e4a-b8ae-3fc86191e198) ![image](https://github.com/Tiru373/patch-antennas-for-5g-applications/assets/147503242/086dedbf-a7ba-4fd3-938a-d57b7c93cb5d)
-
-
-
 
 ## Patch Antennas: Significance in 5G
 
 Patch antennas are crucial in 5G communication, offering compact design, high performance, and versatility. They enable the deployment of high-frequency wireless networks and facilitate seamless connectivity in modern communication systems.
-
-
 
 ## Project Documentation
 
@@ -53,6 +49,12 @@ Access simulation and experimental data:
 
 - **Simulation_Data**: Output data from ANSYS HFSS simulations.
 - **Experimental_Data**: Measurement data from physical testing of fabricated antennas.
+## Comparison Tables
+
+- [Technical Specifications Comparison](https://github.com/Tiru373/patch-antennas-for-5g-applications/blob/45453df021a7321c295d58695667652a6d66d67e/comparision%20table.md)
+- [Performance Comparison](
+https://github.com/Tiru373/patch-antennas-for-5g-applications/blob/45453df021a7321c295d58695667652a6d66d67e/table2.md)
+
 
 ## Usage
 
