@@ -17,12 +17,12 @@ Patch antennas are crucial in 5G communication, offering compact design, high pe
 
 Explore the project documentation and presentation to learn more:
 
-- [Project Report (PDF)](https://example.com/project_report.pdf)
-- [Presentation Slides (PPT)](https://example.com/presentation.pptx)
+- [Project Report (PDF)](https://github.com/Tiru373/patch-antennas-for-5g-applications/blob/8697225b1ee2c35a0757c587f0ceca57f8e8bb16/majorproject_D4_final%20(1).pdf)
+- [Presentation Slides (PPT)](https://github.com/Tiru373/patch-antennas-for-5g-applications/blob/8697225b1ee2c35a0757c587f0ceca57f8e8bb16/D4.pptx)
 
 **Download Project Files:**
-- [Download Project Report](https://example.com/project_report.pdf)
-- [Download Presentation Slides](https://example.com/presentation.pptx)
+- [Download Project Report](https://github.com/Tiru373/patch-antennas-for-5g-applications/blob/8697225b1ee2c35a0757c587f0ceca57f8e8bb16/majorproject_D4_final%20(1).pdf)
+- [Download Presentation Slides](https://github.com/Tiru373/patch-antennas-for-5g-applications/blob/8697225b1ee2c35a0757c587f0ceca57f8e8bb16/D4.pptx)
 
 **Note:** Please ask permission before downloading project files to respect intellectual property rights.
 ![flow chart](https://github.com/Tiru373/patch-antennas-for-5g-applications/assets/147503242/532f686b-c787-4b7e-b00a-51cdd7c1f7ca)
@@ -68,6 +68,16 @@ You can explore the directories to access project resources.
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+## Contributors
 
-For inquiries or feedback, contact [project_team@example.com](mailto:project_team@example.com).
+- Tirumalasetty Ashok (ashoktirumalasetty77@gmail.com)
+- G. Rajesh
+
+## Acknowledgments
+
+Special thanks to Dr. Y. Rama Krishna for their support and guidance throughout the project.
+
+For inquiries or feedback, contact [ashoktirumalasetty77@gmail.com](mailto:ashoktirumalasetty77@gmail.com).
+
+College Name: Seshadri Rao Gudlavalleru Engineering College
+
